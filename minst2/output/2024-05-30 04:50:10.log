@@ -1,0 +1,83 @@
+minst2/main.py
+2024-05-30 04:50:12
+
+EPOCH: 1
+batch_index: 0   	loss: 2.3084
+batch_index: 300 	loss: 0.0871
+batch_index: 600 	loss: 0.0584
+batch_index: 900 	loss: 0.0622
+TRAIN TIME: 9.537218809127808
+Loss: 0.0011 	 Accuracy: 97.7200
+
+EPOCH: 2
+batch_index: 0   	loss: 0.0169
+batch_index: 300 	loss: 0.0433
+batch_index: 600 	loss: 0.0509
+batch_index: 900 	loss: 0.0286
+TRAIN TIME: 7.692576169967651
+Loss: 0.0012 	 Accuracy: 97.7700
+
+EPOCH: 3
+batch_index: 0   	loss: 0.0129
+batch_index: 300 	loss: 0.0095
+batch_index: 600 	loss: 0.0440
+batch_index: 900 	loss: 0.0856
+TRAIN TIME: 7.391537666320801
+Loss: 0.0005 	 Accuracy: 99.0200
+
+EPOCH: 4
+batch_index: 0   	loss: 0.0088
+batch_index: 300 	loss: 0.0471
+batch_index: 600 	loss: 0.0143
+batch_index: 900 	loss: 0.0062
+TRAIN TIME: 6.860122442245483
+Loss: 0.0014 	 Accuracy: 97.9700
+
+EPOCH: 5
+batch_index: 0   	loss: 0.0435
+batch_index: 300 	loss: 0.0047
+batch_index: 600 	loss: 0.0054
+batch_index: 900 	loss: 0.0126
+TRAIN TIME: 6.628536224365234
+Loss: 0.0006 	 Accuracy: 99.0800
+
+EPOCH: 6
+batch_index: 0   	loss: 0.0273
+batch_index: 300 	loss: 0.2022
+batch_index: 600 	loss: 0.0025
+batch_index: 900 	loss: 0.0074
+TRAIN TIME: 6.967129707336426
+Loss: 0.0006 	 Accuracy: 99.0800
+
+EPOCH: 7
+batch_index: 0   	loss: 0.0015
+batch_index: 300 	loss: 0.0012
+batch_index: 600 	loss: 0.0038
+batch_index: 900 	loss: 0.0025
+TRAIN TIME: 6.861886978149414
+Loss: 0.0007 	 Accuracy: 98.8400
+
+EPOCH: 8
+batch_index: 0   	loss: 0.0020
+batch_index: 300 	loss: 0.0001
+batch_index: 600 	loss: 0.0007
+batch_index: 900 	loss: 0.0761
+TRAIN TIME: 7.2930426597595215
+Loss: 0.0006 	 Accuracy: 99.1100
+
+EPOCH: 9
+batch_index: 0   	loss: 0.0003
+batch_index: 300 	loss: 0.0038
+batch_index: 600 	loss: 0.0061
+batch_index: 900 	loss: 0.0323
+TRAIN TIME: 7.737361192703247
+Loss: 0.0005 	 Accuracy: 99.1900
+
+EPOCH: 10
+batch_index: 0   	loss: 0.0021
+batch_index: 300 	loss: 0.0003
+batch_index: 600 	loss: 0.0005
+batch_index: 900 	loss: 0.0291
+TRAIN TIME: 7.561473369598389
+Loss: 0.0005 	 Accuracy: 99.2400
+
